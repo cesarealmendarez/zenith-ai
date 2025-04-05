@@ -179,8 +179,8 @@ export default function Index() {
                         <p className="text-center text-lg font-light tracking-tighter text-white">
                             Welcome! Zenith Web Solutions is dedicated to empowering
                             businesses to reach new heights through the
-                            transformative power of cutting-edge Artificial
-                            Intelligence technology. Our mission is to enhance
+                            transformative power of cutting-edge web
+                            technologies. Our mission is to enhance
                             your workflows, making them stronger, better, and
                             faster. We take immense pride in our client-centric
                             approach, forming close partnerships with our
@@ -458,7 +458,7 @@ export default function Index() {
                                 </p>
 
                                 <p className="mt-4 text-sm text-neutral-800 md:order-first md:mt-0">
-                                    &copy;2024 Zenith Web Solutions
+                                    &copy;2025 Zenith Web Solutions
                                 </p>
                             </div>
                         </div>
